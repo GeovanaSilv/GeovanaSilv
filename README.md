@@ -2,8 +2,8 @@
 <p>Sou estudante do curso de Desenvolvimento de Sistemas  no Colégio Técnico de Campinas
 <div align="center">
   <a href="https://github.com/GeovanaSilv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GeovanaSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaSilv&layout=compact&langs_count=7&theme=dracula"/_>
+  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=GeovanaSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
+  <img height="180em"  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaSilv&layout=compact&langs_count=7&theme=dracula"/_>
 </div>
 
 <div style="display: inline_block"><br>
