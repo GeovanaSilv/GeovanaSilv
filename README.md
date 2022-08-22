@@ -1,5 +1,5 @@
 ## Olá  eu sou a Geovana Oliveira
-<p>Sou estudante do curso de Desenvolvimento de Sistema</p>
+<p>Sou estudante do curso de Desenvolvimento de Sistemas</p>
 <div align="center">
   <a href="https://github.com/GeovanaSilv">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=GeovanaSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
