@@ -3,7 +3,7 @@
 <h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
   
-  ## Sobre mim <img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width ="40px">
+  ## Sobre mim <img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width ="70px">
  Olaa! Me chamo Geovana.Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
   Atualmente estou a procura de estágio na área de desenvolvimento Front end.
   
