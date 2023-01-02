@@ -3,11 +3,11 @@
 <h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
   
-  <h2>Sobre mim <img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width ="30px">
+  <h2>Sobre mim <img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width ="40px"
 <h4>Olaa!. Me chamo Geovana e sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
 <h4>Atualmente estou a procura de estágio na área de desenvolvimento Front end 
   
-  
+  >
   
   
   <h1>Linguagens e Ferramentas <img src = "https://github.com/GeovanaSilv/GeovanaSilv/blob/main/icone programm.png" width="70px"/>
