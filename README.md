@@ -1,4 +1,5 @@
-#Olaaa <img src = "https://pin.it/3OvZDVe" width= "30px"/>
+#Olaaa 
+<img align="center" alt="GE-Java" height="30" width="40" src="https://pin.it/3OvZDVe" />
 #Seja Bem vindo ao meu perfil
 
 
