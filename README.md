@@ -7,7 +7,7 @@
   
   
   <h2>Linguagens e Ferramentas
-    <img align = "center" height ="30" width="40" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+    <img align = "center" height ="30" width="60" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
    
   <div style="display: inline_block">
     <br>
