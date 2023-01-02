@@ -1,13 +1,14 @@
 <img style="margin-top:40px" align="right" width="400px" src="https://i.pinimg.com/originals/b2/0f/a8/b20fa83e07927672bc039bdb0a12bbb5.png">
 
-<h1> Olaa, Seja Bem vindo <img align "center" height="30" width="40" src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+<h1> Olaa, Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### Sou estudante do Colégio Técnico de Campinas- COTUCA 
   
   
   
-  <h2>Linguagens e Ferramentas <img src= "https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-    ###
+  <h2>Linguagens e Ferramentas
+    <img align = "center" height ="30" width="40" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+   
   <div style="display: inline_block">
     <br>
 <img align="center" alt="GE-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -24,3 +25,4 @@
   
 
 
+ ###
