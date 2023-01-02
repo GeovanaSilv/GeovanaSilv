@@ -50,7 +50,10 @@
    Projeto realizado em React js, APi em C# e Sql- Site onde mostra cardapio de  Fast Food e o dono do cardapio tem opção de adicionar, excluir e editar informações 
    
       
-  
+  <div align="center">
+  <a href="https://github.com/GeovanaSilv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovanaSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaSilv&layout=compact&langs_count=7&theme=dracula"/>
   
 
  
