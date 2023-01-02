@@ -6,7 +6,7 @@
   
   
   
-  <h2>Linguagens e Ferramentas <img src = "https://github.com/GeovanaSilv/GeovanaSilv/blob/main/icone programm.png" width="70"/>
+  <h1>Linguagens e Ferramentas <img src = "https://github.com/GeovanaSilv/GeovanaSilv/blob/main/icone programm.png" width="70"/>
    
    
   <div style="display: inline_block">
