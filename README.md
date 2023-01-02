@@ -1,8 +1,9 @@
 <img style="margin-top:40px" align="right" width="400px" src="https://i.pinimg.com/originals/b2/0f/a8/b20fa83e07927672bc039bdb0a12bbb5.png">
 
-<h1> Olaa, Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+<h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-#### Sou estudante do Colégio Técnico de Campinas- COTUCA 
+####Olaa, me chamo Geovana e sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP
+  
   
   
   
