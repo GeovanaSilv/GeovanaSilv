@@ -9,23 +9,9 @@
   
   
   
-  
-## Atualmente Estudando <img src = https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif width ="40px">
-   
-   
-  <div style="display: inline_block">
-    <br>
 
-  <img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="GE-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Ge-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- 
-</div>
   
-  ## Linguagens e Ferramentas que já estudei <img src = https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif width ="40px">
+  ## Linguagens e Ferramentas que já estudei <img src = https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif width ="40px">
   
   <div style="display: inline_block">
     <br>
