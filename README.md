@@ -63,6 +63,6 @@
   <a href="https://www.linkedin.com/in/geovana-oliveira-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
      
-    <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="40px">
+ ##   <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="40px">
 
  
