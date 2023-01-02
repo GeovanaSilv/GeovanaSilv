@@ -1,5 +1,5 @@
 #Olaaa 
-<img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="GE-Js" height="30" width="40" src="https://www.pontotel.com.br/wp-content/uploads/2022/05/imagem-corporativa.jpg">
 #Seja Bem vindo ao meu perfil
 
 
