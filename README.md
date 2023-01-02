@@ -5,7 +5,7 @@
   
   ## Sobre mim
  Olaa! Me chamo Geovana. Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
-  Atualmente estou à procura de estágio na área de desenvolvimento Front end e Mobile, porém estou aberta para outras áreas.
+  Atualmente estou à procura de estágio na área de desenvolvimento de Software, porém estou aberta para outras áreas.
   
   
   
