@@ -25,7 +25,7 @@
  
 </div>
   
-  ## Linguagens e Ferramentas que já estudei <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="40px">
+  ## Linguagens e Ferramentas que já estudei <img src = https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif width ="40px">
   
   <div style="display: inline_block">
     <br>
