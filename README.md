@@ -10,7 +10,7 @@
   
   
   
-## Linguagens e Ferramentas que estudo atualmente <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="40px">
+## Linguagens e Ferramentas que estudo atualmente <img src = https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif width ="40px">
    
    
   <div style="display: inline_block">
