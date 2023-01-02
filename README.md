@@ -40,5 +40,12 @@
   <img align="center" alt="GE-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  
 </div>
+  
+  ## Projetos
+    <h4> Bebabri Med-Seu Aplicativo para lembrete de Remédio:
+       Projeto que visa auxiliar os usuários tomarem o remedio no horário certo, atráves de agendar o medi  j  eto visa mais do que agendar, ajudar na conscientização e prevenção de problemas como interação medicamentosa e o descarte incorreto de medicamentos, contando com mais funções : calculadora de medicamentos que serve para calcular a quantidade que o usuario irá precisar tomar durante o tratamento, assim evitando mais gastos e consequentemente 
+      
+  
+  
 
  
