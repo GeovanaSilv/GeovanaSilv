@@ -43,8 +43,8 @@
   
   ## Projetos
   ## Bebabri Med-Seu Aplicativo para lembrete de Remédio:
-  ##🏅 Premiação em Terceiro Lugar na Categoria de Ciencias da Saúde na 10ª mostra da 3M. 
-  Criação de um software, com o intuito de auxiliar as pessoas a lembrarem de seus medicamentos, com alarme, calculadora de remédios, e outras funções que tem   como   finalidade de conscientização e prevenção sobre problemas como a interação medicamentosa e o descarte incorreto de medicamentos.  
+  ## 🏅 Premiação em Terceiro Lugar na Categoria de Ciencias da Saúde na 10ª mostra da 3M. 
+  Criação de um software, com o intuito de auxiliar as pessoas a lembrarem de seus medicamentos, com alarme, calculadora de remédios, e outras funções que tem    como finalidade de conscientização e prevenção sobre problemas como a interação medicamentosa e o descarte incorreto de medicamentos.  
          
 
   
