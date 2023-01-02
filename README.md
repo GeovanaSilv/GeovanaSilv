@@ -24,7 +24,7 @@
   <img align="center" alt="Ge-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="GE-SQl" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
   <img align="center" alt="GE-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="center" alt="GE-Python" height="30" width="40" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+ <img align="center" alt="GE-Python" height="30" width="40" src="https://image.pngaaa.com/941/5376941-middle.png" />
    
 </div>
   
