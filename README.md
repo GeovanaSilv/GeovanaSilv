@@ -46,7 +46,7 @@
   ## 🏅 Premiação em Terceiro Lugar na Categoria de Ciencias da Saúde na 10ª mostra da 3M. 
   Criação de um software, com o intuito de auxiliar as pessoas a lembrarem de seus medicamentos, com alarme, calculadora de remédios, e outras funções que tem    como finalidade de conscientização e prevenção sobre problemas como a interação medicamentosa e o descarte incorreto de medicamentos.  
          
-##Cardapio Site 
+## Cardapio Site 
    Projeto realizado em React js, APi em C# e Sql- Site onde mostra cardapio de  Fast Food e o dono do cardapio tem opção de adicionar, excluir e editar informações 
    
       
