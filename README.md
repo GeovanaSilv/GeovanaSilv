@@ -1,6 +1,6 @@
 <img style="margin-top:40px" align="right" width="400px" src="https://i.pinimg.com/originals/b2/0f/a8/b20fa83e07927672bc039bdb0a12bbb5.png">
 
-<h1> Olaa, Seja Bem vindo <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+<h1> Olaa, Seja Bem vindo <img align "center" height="30" width="40" src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### Sou estudante do Colégio Técnico de Campinas- COTUCA 
   
