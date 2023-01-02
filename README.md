@@ -3,14 +3,14 @@
 <h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
   
-  ## Sobre mim <img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width ="100px">
- Olaa! Me chamo Geovana.Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
+  ## Sobre mim
+ Olaa! Me chamo Geovana. Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
   Atualmente estou à procura de estágio na área de desenvolvimento Front end, porém estou aberta para outras áreas.
   
   
   
   
-## Linguagens e Ferramentas que eu já estudei  <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="100px">
+## Linguagens e Ferramentas que eu já estudei  <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="40px">
    
    
   <div style="display: inline_block">
