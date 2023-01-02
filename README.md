@@ -7,7 +7,9 @@
   
   
   <h2>Linguagens e Ferramentas <img src= "https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-  <div style="display: inline_block"><br>
+    ###
+  <div style="display: inline_block">
+    <br>
 <img align="center" alt="GE-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,4 +23,4 @@
   
   
 
-###
+
