@@ -1,5 +1,5 @@
 #Olaaa 
-<img align="center" alt="GE-Java" height="30" width="40" src="https://pin.it/3OvZDVe" />
+<img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 #Seja Bem vindo ao meu perfil
 
 
