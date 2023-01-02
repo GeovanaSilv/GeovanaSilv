@@ -2,7 +2,10 @@
 
 <h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-####Olaa, me chamo Geovana e sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP
+  
+  
+<h4>Olaa!. Me chamo Geovana e sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
+  
   
   
   
