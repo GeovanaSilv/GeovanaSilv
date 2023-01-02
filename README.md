@@ -10,7 +10,7 @@
   
   
   
-## Linguagens e Ferramentas que eu já estudei  <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px"/>
+## Linguagens e Ferramentas que eu já estudei  <img src = https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width ="100px">
    
    
   <div style="display: inline_block">
