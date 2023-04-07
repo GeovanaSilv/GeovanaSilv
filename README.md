@@ -1,4 +1,4 @@
-<img style="margin-top:40px" align="right" width="400px" src="https://i.pinimg.com/originals/b2/0f/a8/b20fa83e07927672bc039bdb0a12bbb5.png">
+
 
 ##   <img src = https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif >
 
