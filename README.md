@@ -1,6 +1,6 @@
 
 
-##   <img src = https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif >
+##   <img style="margin-top:40px" align="right" width="400px" src = https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif >
 
 
 <h1>Seja Bem vindo <img  src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
