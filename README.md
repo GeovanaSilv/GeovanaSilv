@@ -20,24 +20,13 @@
     <br>
 
   <img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="GE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ge-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="GE-SQl" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
 
- 
    
 </div>
   
-  ## Projetos 📂 
-  ## Bebabri Med-Seu Aplicativo para lembrete de Remédio
-  ## 🏅 Premiação em Terceiro Lugar na Categoria de Ciencias da Saúde na 10ª mostra da 3M. 
-  Criação de um software, com o intuito de auxiliar as pessoas a lembrarem de seus medicamentos, com alarme, calculadora de remédios, e outras funções que tem    como finalidade de conscientização e prevenção sobre problemas como a interação medicamentosa e o descarte incorreto de medicamentos.  
-         
-## Cardapio Site 🍔 
-   Projeto realizado em React js, APi em C# e Sql- Site onde mostra cardapio de  Fast Food e o dono do cardapio tem opção de adicionar, excluir e editar informações 
-   
       
   <div align="center">
   <a href="https://github.com/GeovanaSilv">
