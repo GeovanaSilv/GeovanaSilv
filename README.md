@@ -4,11 +4,6 @@
 
 
   
-  <h1>Sobre mim</h1>
-    <br> 
- <p>
-    Olaa! Me chamo Geovana. Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
-  Atualmente estou à procura de estágio na área de desenvolvimento de Software.</p>
   
   
 
@@ -16,6 +11,11 @@
 
 
   
+  <h1>Sobre mim</h1>
+    <br> 
+ <p>
+    Olaa! Me chamo Geovana. Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
+  Atualmente estou à procura de estágio na área de desenvolvimento de Software.</p>
 
   
   ## Linguagens e Ferramentas <img src = https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif width ="40px">
