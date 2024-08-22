@@ -1,4 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/rHR8qP1mC5V3G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-wars-han-solo-rHR8qP1mC5V3G">via GIPHY</a></p>
 
 
 ##   <img style="margin-top:40px" align="right" width="400px" src = "https://giphy.com/embed/rHR8qP1mC5V3G" >
