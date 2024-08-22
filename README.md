@@ -3,7 +3,7 @@
 ##   <img style="margin-top:40px" align="right" width="400px" src = https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif >
 
 
-<h1>Seja Bem vindo <img  src="https://giphy.com/embed/rHR8qP1mC5V3G" width="30px">
+<h1>Seja Bem vindo <iframe src="https://giphy.com/embed/rHR8qP1mC5V3G" width="480" height="408" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-han-solo-rHR8qP1mC5V3G">via GIPHY</a></p>
 
   
   ## Sobre mim
