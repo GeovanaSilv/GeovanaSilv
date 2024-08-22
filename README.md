@@ -1,8 +1,6 @@
 
 <h1>Seja Bem vindo 
 
-   <img style="margin-top:40px" align="right" width="400px" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXIwb3o0bjdqZjd2NWtwdDJ0Y3Q3MzlkZzZ6NGNlZTczMzZoc3kxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rHR8qP1mC5V3G/giphy.gif">
-
 
 
   
@@ -13,6 +11,10 @@
   Atualmente estou à procura de estágio na área de desenvolvimento de Software.</p>
   
   
+
+   <img style="margin-top:40px" align="right" width="400px" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXIwb3o0bjdqZjd2NWtwdDJ0Y3Q3MzlkZzZ6NGNlZTczMzZoc3kxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rHR8qP1mC5V3G/giphy.gif">
+
+
   
 
   
