@@ -1,41 +1,9 @@
 
-<h1>Seja Bem vindo 
-
-
-
-  
-  
-  
-
-
-
-  
-  <h1>Sobre mim</h1>
-    <br> 
  <p>
-    Olaa! Me chamo Geovana. Sou estudante do curso Técnico de Desenvolvimento de Sistemas, no Colégio Técnico de Campinas-UNICAMP.
-  Atualmente estou à procura de estágio na área de desenvolvimento de Software.</p>
+    Atualmente estudante do terceiro semestre no curso de Estatística na Universidade Estadual de Campinas.
 
   
-  ## Linguagens e Ferramentas <img src = https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif width ="40px">
-  
-  <div style="display: inline_block">
-    <br>
-
-  <img align="center" alt="GE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GE-SQl" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
-
-   
-</div>
-  
-      
-  <div align="center">
-  <a href="https://github.com/GeovanaSilv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovanaSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaSilv&layout=compact&langs_count=7&theme=dracula"/>
-  
+ 
 ## Contatos
 
 
